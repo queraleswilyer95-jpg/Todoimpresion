@@ -144,12 +144,12 @@ header {
 
   .info {
     flex-direction: column;
-    text-align: center;
+    text-align: justify;
     padding: 30px 20px;
   }
 
   .info-texto h1 {
-    
+    Text-align: center;
     font-size: 30px !important;
     line-height: 1.2;
   }
@@ -302,6 +302,7 @@ footer{
 
 
   
+
 
 
 
