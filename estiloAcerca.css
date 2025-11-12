@@ -143,12 +143,12 @@ header {
 
   .info {
     flex-direction: column;
-    text-align: justify;
+   
     padding: 30px 20px;
   }
 
   .info-texto h1 {
-    text-align: center;
+    
     font-size: 30px !important;
     line-height: 1.2;
   }
@@ -186,12 +186,14 @@ header {
   width: 100%;
   padding: 0 10px;
   box-sizing: border-box;
+  text-align: justify;
 }
 
 .info-texto h1 {
   font-size: 48px;
   margin-bottom: 20px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .turquesa {
@@ -337,4 +339,5 @@ footer {
     height: 300px;
   }
 }
+
 
